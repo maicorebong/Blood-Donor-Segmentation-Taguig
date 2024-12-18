@@ -1,0 +1,1 @@
+Applied K-modes Clustering for blood donor segmentation in the Philippines, with analysis in a Jupyter notebook and visualization in Power BI. The goal is to increase donors by identifying target groups, creating a data dashboard, and proposing initiatives.
